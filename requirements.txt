@@ -1,0 +1,14 @@
+# Random module for selecting search words randomly
+random
+
+# JSON module for parsing and handling JSON data
+json
+
+# Time module for adding delays in the script
+time
+
+# Requests library for making HTTP requests
+requests
+
+# Selenium - Used for automating web browser interactions
+selenium==4.24.0
