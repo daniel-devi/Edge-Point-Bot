@@ -1,7 +1,7 @@
 
 # Edge Point Bot
 
-This project is an automated Bing search bot using Selenium WebDriver with Microsoft Edge, which earn you Microsoft Reward Point.
+This project is an automated Bing search bot using Selenium WebDriver with Microsoft Edge, which earn you Microsoft Reward Point when you run it.
 
 ## Required Components
 
