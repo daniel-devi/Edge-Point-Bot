@@ -1,3 +1,3 @@
-EMAIL = "devonaguh33@outlook.com"
+EMAIL = "" # Replace with your Microsoft Email Address 
 
-PASSWORD = "Madogege11"
+PASSWORD = "" # Replace with your Password 
